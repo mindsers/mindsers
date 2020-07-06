@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm Nathanaël Cherrier. I'm a full-time software engineer passionate about writing clean, beautiful and well-designed code. On my free time, I try to give back to open source by maintaining open source projects and contributing to others.
+
+I'm also a tech content creator. I write tech posts, courses and tutorials to help people from beginner to advanced to learn and grow as a developer.
+
+A few fun facts about me :
+- 🔭 I’m currently working on the frontend of the [Ferpection platform](https://ferpection.com)
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on JS and Swift projects
+- 🤔 I’m looking for help with [Changelog Reader (GH Action)](https://github.com/mindsers/changelog-reader-action)
+- 💬 Ask me about anything dev related
+- 📫 How to reach me: on my [website contact form](https://nathanaelcherrier.com/fr/)
+- 😄 Pronouns: he/his
+
 <!--
 **mindsers/mindsers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
