@@ -1,3 +1,5 @@
+[![An image of @mindsers's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mindsers)](https://holopin.io/@mindsers)
+
 ### Hi there 👋
 
 I'm Nathanaël Cherrier. I'm a full-time software engineer passionate about writing clean, beautiful and well-designed code. On my free time, I try to give back to open source by maintaining open source projects and contributing to others.
