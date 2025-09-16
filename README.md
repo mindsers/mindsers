@@ -7,12 +7,12 @@ I'm Nathanaël Cherrier. I'm a full-time software engineer passionate about writ
 I'm also a tech content creator. I write [tech posts, courses and tutorials to help people](https://mindsers.blog/) from beginner to advanced to learn and grow as a developer.
 
 A few fun facts about me :
-- 🔭 I’m currently working on the mobile app of [Steply](https://steply-app.com)
+- 🔭 I’m currently working on internal SAAS for [Sanofi](https://sanofi.com)
 - 🌱 I’m currently learning Infrastructure as Code
-- 👯 I’m looking to collaborate on JS and Swift projects
+- 👯 I’m looking to collaborate on JS/TS and Swift projects
 - 🤔 I’m looking for help with [Changelog Reader (GH Action)](https://github.com/mindsers/changelog-reader-action)
 - 💬 Ask me about anything dev related
-- 📫 How to reach me: on my [website contact forms](https://nathanaelcherrier.dev/)
+- 📫 How to reach me: find my socials on [my website](https://nathanaelcherrier.dev/)
 - 😄 Pronouns: he/his
 
 <!--
